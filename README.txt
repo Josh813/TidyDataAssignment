@@ -18,14 +18,14 @@ The analytical set includes the following files:
 ================================================
 
 - 'README.txt'
-- ‘code_book.txt': Shows information about the variables used on the feature vector.
-- ‘run_analysis.R’: The R script to run the data.
+- 'code_book.txt': Shows information about the variables used on the feature vector.
+- 'run_analysis.R': The R script to run the data.
 
 The pre-requisite data set required are:
 =========================================
 
 - 'activity_labels.txt': Links the class labels with their activity name.
-- ‘features.txt’: Feature of variables.
+- 'features.txt': Feature of variables.
 - 'train/X_train.txt': Training set.
 - 'train/y_train.txt': Training labels.
 - 'train/subject_train.txt': Training subject.
